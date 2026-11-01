@@ -1,0 +1,14 @@
+Name,Age,Receives gift? (Above 15),,
+Tommy,12,not received,,
+Jim,23,received,,"Please insert formulas and 
+Count how many are eligible for the gifts"
+Sam,13,not received,,
+Tim,11,not received,,
+Rye,75,received,,
+Joe,15,not received,,
+Joseph,12,not received,,
+Michael,13,not received,,
+Phoebe,5,not received,,
+Sarah,9,not received,,
+,,,,
+,formula: ,"""=IF([@Age]>15,""received"",""not received"")""",,
